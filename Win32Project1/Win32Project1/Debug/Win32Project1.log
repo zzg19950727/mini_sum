@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\github\mini_sum\main.cpp(110): warning C4018: “<”: 有符号/无符号不匹配
+  Win32Project1.vcxproj -> E:\GitHub\mini_sum\Win32Project1\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> E:\GitHub\mini_sum\Win32Project1\Debug\Win32Project1.pdb (Full PDB)
